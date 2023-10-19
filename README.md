@@ -1,2 +1,2 @@
 # Global-CO2-Emissions-Analysis
-Analyze and visualize CO2 emissions data over time and highlight the top emitting countries in the most recent decade.
+ Interactive dashboard to provide insights into the historical trends of CO2 emissions and identify the leading countries in terms of emissions over the past six decades.
